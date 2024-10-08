@@ -1,0 +1,49 @@
+/*Selectores{estilos}
+tipos de selectores
+1-Etiquetas h1,p
+2-Clase .+Nombre es parte de un grupo de etiquetas
+3- Id #+NombreDelID que tiene una etiqueta
+*/
+body{
+    background-color: pink;
+}
+.fondoverde{
+    background-color: green;
+}
+h2{
+    background-color: aqua;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#tituloprincipal{
+    background-color: rgb(150,380,874);
+    width: 400px;
+    height: 50px;
+}
+button{
+ display: block;
+ background-color: burlywood;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.botongris{ 
+    background-color: gray;
+}
+#Perro{ 
+    width: 300px;  
+}
+.Texto2{
+    width: 25%;
+    height: 40vh;
+}
+#TextoUnico{
+    background-image: url(./Imagenes/christine-roy-ir5MHI6rPg0-unsplash.jpg);
+}
+ul{
+    background-color: blueviolet;
+    width: 50%;
+}
+li{
+    background-color: chocolate;
+}
+
+
+
